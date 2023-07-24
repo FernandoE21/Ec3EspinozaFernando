@@ -1,4 +1,4 @@
-@server = https://juliorivero1996-obscure-space-computing-6jgqvwr5qr935qv4-8080.preview.app.github.dev
+@server = https://github.com/FernandoE21/Ec3EspinozaFernando.git
 @api = {{server}}/api/ec3
 
 ################ Categorias: ################
