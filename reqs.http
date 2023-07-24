@@ -1,4 +1,4 @@
-@server = https://github.com/FernandoE21/Ec3EspinozaFernando.git
+@server = https://ferdb.onrender.com
 @api = {{server}}/api/ec3
 
 ################ Categorias: ################
